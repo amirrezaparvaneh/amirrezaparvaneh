@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirtabrizlii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-parvaneh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amirtabrizli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirreza.parvaneh99@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirtabrizlii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-parvaneh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33002906) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirreza.parvaneh99@gmail.com)
 
 ---
 
